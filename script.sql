@@ -1,3 +1,5 @@
+-- https://github.com/fabriciogonzalez06/node_typescript_sp_devTeam504
+
 CREATE DATABASE dev504;
 
 
